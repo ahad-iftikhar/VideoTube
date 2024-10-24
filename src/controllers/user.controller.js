@@ -330,8 +330,6 @@ const getUserChannelProfile = asyncHandler(async (req, res) => {
     );
 });
 
-// Sub pipelines are remaining
-
 export {
   registerUser,
   loginUser,
